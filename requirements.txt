@@ -3,5 +3,4 @@ ee
 geemap
 ipywidgets
 ipyleaflet
-os
 re
