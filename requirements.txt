@@ -1,5 +1,7 @@
 voila
-geemap
 ee
+geemap
 ipywidgets
 ipyleaflet
+os
+re
