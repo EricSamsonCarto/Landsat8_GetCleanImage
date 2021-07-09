@@ -3,3 +3,4 @@ ee
 geemap
 ipywidgets
 ipyleaflet
+IPython
