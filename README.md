@@ -4,4 +4,4 @@ Utilizing the GEEmap python package developed by <a href="https://twitter.com/gi
 <br>
 ### <a href="https://cloudless-landsat-8.herokuapp.com/">Cloudless Landsat 8
   
-   
+Launched using Heroku within a jupyter notebook
